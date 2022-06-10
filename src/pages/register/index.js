@@ -65,7 +65,7 @@ const Register = () => {
         <View style={styles.LoginStyle}>
           {/* <TouchableOpacity onPress={() => onSubmit()}> */}
             <View style={styles.Login}>
-              <Text style={{fontWeight: 'bold'}}>Register</Text>
+              <Text style={{fontWeight: 'bold'}}>Register.</Text>
             </View>
           {/* </TouchableOpacity> */}
         </View>
